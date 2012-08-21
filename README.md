@@ -1,3 +1,5 @@
+##This fork is an assets-only version of Font Awesome for inclusion in other projects. We didn't want to accidentally rehost documentation pages on other domains.
+
 #Font Awesome 2.0
 ##the iconic font designed for use with Twitter Bootstrap
 
@@ -14,5 +16,5 @@ Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC 
 http://creativecommons.org/licenses/by/3.0/
 A mention of 'Font Awesome - http://fortawesome.github.com/Font-Awesome'
 in human-readable source code is considered acceptable attribution (most common on the
-web). If human readable source code is not available to the end user, a mention in an 'About' 
+web). If human readable source code is not available to the end user, a mention in an 'About'
 or 'Credits' screen is considered acceptable (most common in desktop or mobile software).
