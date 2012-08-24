@@ -1,4 +1,4 @@
-This fork is an assets-only version of Font Awesome for inclusion using git submodules in other projects. We didn't want to accidentally rehost documentation pages on other domains. It's kind of like having a build version of the repo.
+This fork is an assets-only version of Font Awesome for inclusion in other projects. We didn't want to accidentally rehost documentation pages on other domains. It's kind of like having a build version of the repo.
 
 #Font Awesome 2.0
 ##the iconic font designed for use with Twitter Bootstrap
